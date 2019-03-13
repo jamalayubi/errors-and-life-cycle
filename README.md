@@ -114,6 +114,7 @@ __Links__:
     * [creation phase: semantic errors](https://goo.gl/68af7H)
     * [execution phase: semantic errors](https://goo.gl/WzbmNE)
     * [reserved words](https://goo.gl/UiYnjK)
+* [JS error reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors)  
 * [more exercises](https://github.com/janke-learning/errors)
 
 
