@@ -42,6 +42,7 @@ The fourth principle: __Errors__
 ### Index
 * [Learning Objectives](#learning-objectives)
 * [Resources](#resources)
+* [js in order](https://github.com/janke-learning/js-in-order)
 
 ---
 ---
